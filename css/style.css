@@ -75,7 +75,7 @@ Author: themehippo.com
   }
 
 body {
-    font-family : 'Hind', sans-serif;
+    font-family : 'Montserrat', sans-serif;
     font-size   : 15px;
     line-height : 1.8em;
     color       : #C910E6;
@@ -113,13 +113,13 @@ h3 {
 h4 {
     font-size   : 15px;
     line-height : 1.8em;
-    font-weight : 500;
+    font-weight : 700;
     }
 
 h5 {
     font-size   : 15px;
     line-height : 1.5em;
-    font-weight : 500;
+    font-weight : 700;
     }
 
 h6 {
